@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Configuration>
+  <HTMLAssets>
+    <SourceXML></SourceXML>
+    <HTMLSource>D:\TFS\Main\Src\NXCore\NX Portal\modules\ConfigurationDialogues</HTMLSource>
+    <HTMLAssetsDestination>D:\TFS\Main\Src\Common\Scripts\HTMLAssets</HTMLAssetsDestination>
+  </HTMLAssets>
+  <ShapeProperties>
+    <Source>D:\TFS\Main\Src</Source>
+    <ArchiveDirectory>D:\TFS\Main\Src\Common\Scripts\ShapeProperties</ArchiveDirectory>
+  </ShapeProperties>
+</Configuration>

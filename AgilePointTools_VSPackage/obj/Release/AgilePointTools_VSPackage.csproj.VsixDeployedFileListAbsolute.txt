@@ -1,0 +1,6 @@
+C:\Users\Admin\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\Company\AgilePoint Tools\1.0\\AgilePointTools.dll
+C:\Users\Admin\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\Company\AgilePoint Tools\1.0\\AgilePointTools.pdb
+C:\Users\Admin\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\Company\AgilePoint Tools\1.0\\AgilePointTools.pkgdef
+C:\Users\Admin\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\Company\AgilePoint Tools\1.0\\extension.vsixmanifest
+C:\Users\Admin\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\Company\AgilePoint Tools\1.0\\Configuration.xml
+C:\Users\Admin\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\Company\AgilePoint Tools\1.0\Resources\\AgilePoint.ico

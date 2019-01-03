@@ -1,0 +1,19 @@
+<PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011">
+  <Metadata>
+    <Identity Id="AgilePointTools_VSPackage.Company.7821877b-3c12-43f9-b446-cc2a26e71d44" Version="1.0" Language="en-US" Publisher="Company" />
+    <DisplayName>AgilePoint Tools</DisplayName>
+    <Description xml:space="preserve">AgilePoint Utility Tools</Description>
+    <Icon>Resources\AgilePoint.ico</Icon>
+  </Metadata>
+  <Installation>
+    <InstallationTarget Id="Microsoft.VisualStudio.Community" Version="[14.0]" />
+    <InstallationTarget Version="[15.0]" Id="Microsoft.VisualStudio.Community" />
+  </Installation>
+  <Dependencies>
+    <Dependency Id="Microsoft.Framework.NDP" DisplayName="Microsoft .NET Framework" Version="[4.5,)" />
+    <Dependency Id="Microsoft.VisualStudio.MPF.14.0" DisplayName="Visual Studio MPF 14.0" Version="[14.0]" />
+  </Dependencies>
+  <Assets>
+    <Asset Type="Microsoft.VisualStudio.VsPackage" Path="AgilePointTools.pkgdef" />
+  </Assets>
+</PackageManifest>
